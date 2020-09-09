@@ -1,4 +1,0 @@
-title: Alison PATOU
-description: / <strong>Data Scientist</strong>
-theme: jekyll-theme-minimal
-favicon: "favicon-code.ico"
